@@ -1,4 +1,4 @@
-Id,Nome,Sexo,Idade,Nota_1_bi,Nota_2_bi,Nota_3_bi,Nota_4_bi
+Id,Nome,Sexo,Idade,Nota_1_tri,Nota_2_tri,Nota_3_tri,Nota_4_tri
 1,Alice,F,15,7,8,7,8.5
 2,Arthur,M,15,6,7,8,9
 3,Beatriz,F,14,9,9.5,10,9
